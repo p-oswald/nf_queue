@@ -1,0 +1,1 @@
+gcc -o nf-queue nf-queue.c -lnfnetlink -lnetfilter_queue
